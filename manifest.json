@@ -1,0 +1,16 @@
+{
+  "short_name": "SD Tool",
+  "name": "SD TOOL - Creative AI Studio",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/neon/512/experimental-music-neon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#22c55e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
